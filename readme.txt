@@ -1,4 +1,4 @@
-喝喝啊！git is a free tool under GPL
+喝喝啊！git is a free software under GPL
 
 Git has a mutable index called stage.
 Git tacks changes of files.
